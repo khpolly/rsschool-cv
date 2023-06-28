@@ -35,6 +35,8 @@ console.log(overPayment(15000))
 
 ## Experience
 
+[CV-project](https://github.com/khpolly/rsschool-cv/blob/gh-pages/cv.md)
+
 
 ## Education
 
