@@ -9,9 +9,11 @@
 
 **LinkedIn**: [Palina Khalilava](https://www.linkedin.com/in/polina-khalilova-b692a9135)
 
-**Discord-server rs school** : @khpolly
+**Discord** : @khpolly
 
 ## Summary
+
+I am 35 years old and I live in Minsk. Now I work as an accountant in a private company. Last year I decided to try my hand in a new field and chose programming. Graduated from IT school and continue to study.
 
 
 ## Skills
@@ -40,6 +42,6 @@ console.log(overPayment(15000))
 
 ## Education
 
-* https://www.udemy.com (JavaScript), 2023
-* TeachMeSkills (IT-school, Front-End Developer), 2022
+* Training course [JavaScript](https://www.udemy.com) , 2023
+* Training course in TeachMeSkills (IT-school, Front-End Developer), 2022
 * Institute of Management and Entrepreneurship, Minsk (economist), 2017
